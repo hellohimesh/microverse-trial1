@@ -1,0 +1,27 @@
+.margin-top-10{
+    margin-top: 10px;
+}
+#tribute-info{
+    margin: 1rem;
+    background-color: #eeeeee;
+}
+
+ul {
+    list-style-type: disc !important;
+    padding-left: 1em; 
+}
+li{
+    padding: 0.7em;
+    font-size: 16px;
+}
+#image{
+max-width: 100%;
+}
+#img-div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
